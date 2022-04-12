@@ -1,3 +1,11 @@
+# Purpose of this project
+
+- To browse through for products stored in the backend MongoDB
+- To have a cart where you can put the products
+- To make it accessible to the customer with an API
+- To learn about React, Redux, MongoDb and Mongoose
+- Understanding MERN (MongoDB, Express, React, Node.js)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
