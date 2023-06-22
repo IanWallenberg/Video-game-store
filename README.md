@@ -3,7 +3,7 @@
 <br>
 <br>
 Link to project (currently under construction) - https://retro-video-game-store.netlify.app
-
+<br> <br>
 This project is part of module Data Interaction, where we dive into the backend part of programming.
 I have learned to use MongoDB, both through Atlas and Compass, and I have worked with POST, GET, and other ways of retrieving data
 
