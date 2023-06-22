@@ -1,5 +1,8 @@
 # Video-game-store
-Project 8 - Data Interaction 💻
+<h3>Project 8 - Data Interaction 💻</h3>
+<br>
+<br>
+Link to project (currently under construction) - https://retro-video-game-store.netlify.app
 
 This project is part of module Data Interaction, where we dive into the backend part of programming.
 I have learned to use MongoDB, both through Atlas and Compass, and I have worked with POST, GET, and other ways of retrieving data
