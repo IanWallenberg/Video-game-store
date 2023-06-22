@@ -1,7 +1,6 @@
 # Video-game-store
 <h3>Project 8 - Data Interaction 💻</h3>
 <br>
-<br>
 Link to project (currently under construction) - https://retro-video-game-store.netlify.app
 <br> <br>
 This project is part of module Data Interaction, where we dive into the backend part of programming.
